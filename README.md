@@ -3,6 +3,7 @@
 ### 꿀TIPer
 꿀TIPer-쪽지를 통한 빠른 커뮤니케이션, 안전한 에스크로 결제, 당도(평점)를 통한 강의 선별, 간편한 강사등록으로 꿀팁을 전수하고 전수받는 플랫폼입니다
 [꿀TIPer 보러가기](http://www.ggultiper.kro.kr)
+##### [꿀TIPer 매뉴얼](https://docs.google.com/document/d/1Lt5TGYBhB_J1F3K9iqZQAzM4tyz7EohjdcmUxYhWr80/edit#heading=h.48dzn215vpdm)
 ##### 작업기간:2023-04-20 ~ 2023-05-22 (1개월 3일)
 ##### 작업인원:8명
 ##### 작업툴
@@ -21,7 +22,7 @@
 </div>
 
 ##### 맡은파트:
-###### [꿀TIPer 매뉴얼](https://docs.google.com/document/d/1Lt5TGYBhB_J1F3K9iqZQAzM4tyz7EohjdcmUxYhWr80/edit#heading=h.48dzn215vpdm)
+
 ###### 허니페이리스트
 
 <img width="70%" src="https://github.com/kimbboyoung/honeytiper/assets/128045073/d5e72e0c-fc42-4e82-8ee7-f084176a9626">
