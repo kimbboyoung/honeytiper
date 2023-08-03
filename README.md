@@ -21,6 +21,7 @@
 </div>
 
 ##### 맡은파트:
+###### [꿀TIPer 매뉴얼](https://docs.google.com/document/d/1Lt5TGYBhB_J1F3K9iqZQAzM4tyz7EohjdcmUxYhWr80/edit#heading=h.48dzn215vpdm)
 ###### 허니페이리스트
 
 <img width="70%" src="https://github.com/kimbboyoung/honeytiper/assets/128045073/d5e72e0c-fc42-4e82-8ee7-f084176a9626">
